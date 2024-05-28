@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="t.me/moteshkhes"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <!-- <a href="t.me/moteshkhes"><img src="kita-ikuyo-rap.webp" alt="Banner"></a> -->
+  <a href="t.me/moteshkhes"><img src="https://i.imgur.com/KXx0cCx.gif" alt="Banner"></a> 
 </p>
 
 <h1 align="center">Hi, I'm <a href="t.me/moteshkhes">Mohmd</a> :)</h1>
@@ -22,5 +23,7 @@ Enjoy at
 <b>Anime Game</b>
 </p>
 <br><br>
+<p align="center">
 <img src="kyubey.gif" height="40" />
-<br><br><br>
+</p>
+
