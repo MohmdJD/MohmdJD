@@ -13,19 +13,12 @@
   <strong><a href="t.me/moteshkhes">Telegram</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I'm currently working on
+<br>
+<b>API Laravel Python</b>
+<br>
+Enjoy at
+<br>
+<b>Anime Game</b>
+</p>
 
-<!--
-**edisonlee55/edisonlee55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
