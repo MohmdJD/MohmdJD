@@ -20,7 +20,7 @@
 <br>
 Enjoy at
 <br>
-<b>Anime Game</b>
+<b>Anime Game Astronomy Quantum Physics Aerospace</b>
 </p>
 <br><br>
 <p align="center">
