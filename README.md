@@ -16,8 +16,8 @@
 
 <p align="center">❤ I'm currently working on
 <br>
-<b>API Laravel Python</b>
-<br>
+<b>API's Laravel Python</b>
+<br><br>
 Enjoy at
 <br>
 <b>Anime Game Astronomy Quantum Physics Aerospace</b>
