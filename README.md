@@ -21,4 +21,6 @@ Enjoy at
 <br>
 <b>Anime Game</b>
 </p>
-
+<br><br>
+<img src="kyubey.gif" height="40" />
+<br><br><br>
