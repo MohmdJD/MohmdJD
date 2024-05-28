@@ -13,11 +13,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdJD&theme=tokyonight&hide_border=true&show_icons=true&layout=compact"" />
 </a>
 </p>
-<br><br><br>
-<p align="center">
-  <strong><a href="t.me/moteshkhes">Telegram</a></strong>
-</p>
-
 <p align="center">❤ I'm currently working on
 <br>
 <b>API's Laravel Python</b>
@@ -25,6 +20,9 @@
 Enjoy at
 <br>
 <b>Anime Game Astronomy Quantum Physics Aerospace</b>
+</p>
+<p align="center">
+  <strong><a href="t.me/moteshkhes">Telegram</a></strong>
 </p>
 <br><br>
 <p align="center">
