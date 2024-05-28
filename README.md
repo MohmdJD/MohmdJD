@@ -1,13 +1,17 @@
 <p align="center">
-  <!-- <a href="t.me/moteshkhes"><img src="kita-ikuyo-rap.webp" alt="Banner"></a> -->
   <a href="t.me/moteshkhes"><img src="https://i.imgur.com/KXx0cCx.gif" alt="Banner"></a> 
 </p>
 
-<h1 align="center">Hi, I'm <a href="t.me/moteshkhes">Mohmd</a> :)</h1>
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=F7F7F7&random=false&center=true&vCenter=true&width=1050&height=44&lines=Hi+👋+Im+Mohmd)](https://t.me/moteshkhes)
+[![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://github.com/MohmdJD)
+
 <h1 align="center">Welcome to my GitHub profile ~UwU~</h1>
 
 <p align="center">
   <a href="https://github.com/mohmdJD"><img src="https://github-readme-stats.vercel.app/api?username=mohmdJD&theme=tokyonight&hide_border=true&show_icons=true" alt="mohdJD's github stats"></a>
+  <a href="t.me/moteshkhes">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmdJD&theme=tokyonight&hide_border=true&show_icons=true&layout=compact"" />
+</a>
 </p>
 
 <p align="center">
